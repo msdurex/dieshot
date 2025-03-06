@@ -1,1 +1,2 @@
 *.psd[[:space:]]*.tiff[[:space:]]*.png filter=lfs diff=lfs merge=lfs -text
+*.psd[[:space:]]*.png[[:space:]]*.tiff filter=lfs diff=lfs merge=lfs -text
